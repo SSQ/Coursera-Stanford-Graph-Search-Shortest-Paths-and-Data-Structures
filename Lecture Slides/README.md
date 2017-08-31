@@ -6,7 +6,11 @@ Week 1 Lecture slides:
     - Strongly Connected Components(SCC),  [Kosaraju’s Two‐Pass Algorithm](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/10.4-slides_algo-graphs-scc_typed.pdf)
     - (Optional)[Structure of the Web](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/10.6-slides_algo-graphs-web_typed.pdf)
 
-Week 2 Lecture slides
+Week 2 Lecture slides:
+  - 11: Dijkstra's Shortest-Path Algorithm
+    - [Dijkstra’s Algorithm](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/11.1-slides_algo-dijkstra-basics_typed.pdf)
+    - [Correctness](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/11.2-slides_algo-dijkstra-correctness_typed.pdf)
+    - [Fast Implementation with Heap](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/11.3-slides_algo-dijkstra-runtime_typed.pdf)
 
 Week 3 Lecture slides
 
