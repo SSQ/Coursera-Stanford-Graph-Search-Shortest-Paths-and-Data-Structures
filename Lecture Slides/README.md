@@ -23,4 +23,7 @@ Week 3 Lecture slides:
     - (Optional)[Rotations: left rotation; right rotation](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/13.4-slides_algo-ds-trees-rotations-annotated.pdf)
     - (Optional)[Insertion In A Red-Black Tree](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/13.5-slides_algo-ds-trees-rbinsert-annotated.pdf)
 
-Week 4 Lecture slides
+Week 4 Lecture slides:
+  - 14: Hashing
+    - [Hash Table: Supported Operations; Application: De‐Duplication; Application: The 2‐SUM Problem](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/14.1-slides_algo-ds-hash-basics_typed.pdf)
+    - [Resolving Collisions; Good Hash Function: Bad Hash Function](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/14.2-slides_algo-ds-hash-guts_typed.pdf)
