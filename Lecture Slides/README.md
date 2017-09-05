@@ -27,3 +27,7 @@ Week 4 Lecture slides:
   - 14: Hashing
     - [Hash Table: Supported Operations; Application: De‐Duplication; Application: The 2‐SUM Problem](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/14.1-slides_algo-ds-hash-basics_typed.pdf)
     - [Resolving Collisions; Good Hash Function: Bad Hash Function](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/14.2-slides_algo-ds-hash-guts_typed.pdf)
+  - 15: Universal Hash Functions:
+    - [Motivation](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/15.1-slides_algo-ds-hash-universal1-typed.pdf)
+  - 16: Bloom Filters
+    - [Bloom Filters](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/16.1-slides_algo-ds-bloom-typed.pdf)
