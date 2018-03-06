@@ -1,8 +1,8 @@
 # Coursera Stanford Graph Search, Shortest Paths and Data Structures
 
-Course can be found [here](https://www.coursera.org/learn/algorithms-graphs-data-structures)
+Course can be found in [Coursera](https://www.coursera.org/learn/algorithms-graphs-data-structures)
 
-Notebook for quick search can be found [here](https://ssq.github.io/2017/07/17/Coursera%20S%20Algorithms%20Specialization%20Notebook/)
+Quiz answers and notebook for quick search can be found in my blog [SSQ](https://ssq.github.io/2017/07/17/Coursera%20S%20Algorithms%20Specialization%20Notebook/)
 
 - Week 1 Lecture slides:
   - 10: Graph Search and Connectivity
